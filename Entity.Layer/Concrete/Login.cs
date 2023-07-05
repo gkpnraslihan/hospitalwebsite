@@ -4,9 +4,9 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace Entity.Layer.Entity
+namespace Entity.Layer
 {
-    internal class Login
+    public class Login
     {
         public int KullaniciId { get; set; }
         public int DoktorId { get; set; }
