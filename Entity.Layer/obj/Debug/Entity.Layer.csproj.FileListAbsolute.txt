@@ -1,0 +1,14 @@
+C:\HospitalWebsite\hospitalwebsite\Entity.Layer\bin\Debug\Entity.Layer.dll.config
+C:\HospitalWebsite\hospitalwebsite\Entity.Layer\bin\Debug\Entity.Layer.dll
+C:\HospitalWebsite\hospitalwebsite\Entity.Layer\bin\Debug\Entity.Layer.pdb
+C:\HospitalWebsite\hospitalwebsite\Entity.Layer\bin\Debug\Data.Layer.dll
+C:\HospitalWebsite\hospitalwebsite\Entity.Layer\bin\Debug\EntityFramework.dll
+C:\HospitalWebsite\hospitalwebsite\Entity.Layer\bin\Debug\EntityFramework.SqlServer.dll
+C:\HospitalWebsite\hospitalwebsite\Entity.Layer\bin\Debug\Data.Layer.pdb
+C:\HospitalWebsite\hospitalwebsite\Entity.Layer\bin\Debug\EntityFramework.xml
+C:\HospitalWebsite\hospitalwebsite\Entity.Layer\bin\Debug\EntityFramework.SqlServer.xml
+C:\HospitalWebsite\hospitalwebsite\Entity.Layer\obj\Debug\Entity.Layer.csproj.AssemblyReference.cache
+C:\HospitalWebsite\hospitalwebsite\Entity.Layer\obj\Debug\Entity.Layer.csproj.CoreCompileInputs.cache
+C:\HospitalWebsite\hospitalwebsite\Entity.Layer\obj\Debug\Entity.Layer.csproj.CopyComplete
+C:\HospitalWebsite\hospitalwebsite\Entity.Layer\obj\Debug\Entity.Layer.dll
+C:\HospitalWebsite\hospitalwebsite\Entity.Layer\obj\Debug\Entity.Layer.pdb
